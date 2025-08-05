@@ -1,0 +1,4 @@
+.env
+node_modules/
+.channels.m3u
+.adult-channels.m3u
