@@ -13,7 +13,7 @@ A lightweight Node.js Express server that proxies IPTV streams via [Streamlink](
 
 - Node.js 16+
 - [Streamlink CLI](https://streamlink.github.io/install.html) installed and in your system PATH
-- A valid `channels.m3u` file in the project root
+- A valid `channels.m3u` file in the `m3u/` folder
 - `.env` file for configuration (see below)
 
 ## Setup
