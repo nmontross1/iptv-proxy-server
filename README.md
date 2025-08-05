@@ -4,7 +4,7 @@ A lightweight Node.js Express server that proxies IPTV streams via [Streamlink](
 
 ## Features
 
-- Loads IPTV channels from a local `channels.m3u` file (not provided)
+- Loads IPTV channels from a local `m3u/channels.m3u` file (not provided)
 - Proxies HLS streams using Streamlink with custom HTTP headers
 - Generates a dynamic M3U playlist with base64-encoded URLs for proxying
 - Simple, minimal dependencies with environment variable configuration
@@ -40,7 +40,7 @@ A lightweight Node.js Express server that proxies IPTV streams via [Streamlink](
     PORT=3000
     HOST_IP=<your-ip-address>
     ```
-4. Place your `channels.m3u` playlist file in the project root directory.
+4. Place your `channels.m3u` playlist file in the `m3u/` directory.
 
 ## Running the Server
 Run the server with:
@@ -69,7 +69,6 @@ The /playlist.m3u endpoint returns an M3U playlist with all channels’ proxy UR
 | `HOST_IP` | IP address used in playlist URLs          | `127.0.0.1` |
 
 ## Dependencies
-Dependencies
 - Express — web framework
 
 - Streamlink — stream proxying CLI
