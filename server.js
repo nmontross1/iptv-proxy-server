@@ -14,7 +14,7 @@ const HOST_IP = process.env.HOST_IP || process.env.IP || '127.0.0.1';
 let channels = [];
 
 async function loadChannels() {
-  const raw = await fs.readFile('./channels.m3u', 'utf-8');
+  const raw = await fs.readFile('m3u/channels.m3u', 'utf-8');
   const parsed = parse(raw);
   channels = parsed.items.map(item => ({
     name: item.name,
