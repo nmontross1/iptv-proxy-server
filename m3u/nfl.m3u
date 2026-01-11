@@ -1,0 +1,33 @@
+#EXTM3U
+
+# Finished Game: Jacksonville Jaguars vs Buffalo Bills
+#EXTINF:-1 tvg-id="NFL_hSls7I1Q_JAX_BUF" tvg-name="JAX vs BUF (Finished)" group-title="NFL",Jacksonville Jaguars vs Buffalo Bills
+https://cdn-live.tv/api/v1/channels/player/?name=nfl+league+pass+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_hSls7I1Q_JAX_BUF" tvg-name="CBS (JAX vs BUF)" group-title="NFL",CBS
+https://cdn-live.tv/api/v1/channels/player/?name=cbs&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_hSls7I1Q_JAX_BUF" tvg-name="Sky Sports Action (JAX vs BUF)" group-title="NFL",Sky Sports Action
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+action&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_hSls7I1Q_JAX_BUF" tvg-name="TSN 4 (JAX vs BUF)" group-title="NFL",TSN 4
+https://cdn-live.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_hSls7I1Q_JAX_BUF" tvg-name="TSN 1 (JAX vs BUF)" group-title="NFL",TSN 1
+https://cdn-live.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=cdnlivetv&plan=free
+
+# Live Game: Philadelphia Eagles vs San Francisco 49ers
+#EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="PHI vs SF (Live)" group-title="NFL",Philadelphia Eagles vs San Francisco 49ers
+https://cdn-live.tv/api/v1/channels/player/?name=nfl+league+pass+2&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="FOX (PHI vs SF)" group-title="NFL",FOX
+https://cdn-live.tv/api/v1/channels/player/?name=fox&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="FOX Deportes (PHI vs SF)" group-title="NFL",FOX Deportes
+https://cdn-live.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="Sky Sports Main Event (PHI vs SF)" group-title="NFL",Sky Sports Main Event
+https://cdn-live.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="TSN 1 (PHI vs SF)" group-title="NFL",TSN 1
+https://cdn-live.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=cdnlivetv&plan=free
+
+# Upcoming Game: New England Patriots vs Los Angeles Chargers
+#EXTINF:-1 tvg-id="NFL_oF6YUciw_NE_LAC" tvg-name="NE vs LAC (Upcoming)" group-title="NFL",New England Patriots vs Los Angeles Chargers
+https://cdn-live.tv/api/v1/channels/player/?name=nfl+league+pass+3&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_oF6YUciw_NE_LAC" tvg-name="NBC (NE vs LAC)" group-title="NFL",NBC
+https://cdn-live.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL_oF6YUciw_NE_LAC" tvg-name="Telemundo (NE vs LAC)" group-title="NFL",Telemundo
+https://cdn-live.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
