@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-US.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987800.png" group-title="BEIN AFRICA CUP 2025",BEE| BEIN MAX 01 4K
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:B6:1B:60&stream=1987800&extension=ts&play_token=4eAm9KxJBK
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1987799.png" group-title="BEIN AFRICA CUP 2025",BEE| BEIN MAX 01 FHD
