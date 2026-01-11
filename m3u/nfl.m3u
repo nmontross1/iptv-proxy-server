@@ -16,7 +16,7 @@ https://cdn-live.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=cdnlivetv&pl
 #EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="PHI vs SF (Live)" group-title="NFL",Philadelphia Eagles vs San Francisco 49ers
 https://cdn-live.tv/api/v1/channels/player/?name=nfl+league+pass+2&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="FOX (PHI vs SF)" group-title="NFL",FOX
-https://cdn-live-tv.ru/api/v1/channels/us-fox/index.m3u8?token=ba40b77ad49a212eb92b7e7be7ac52c2ae5e052603273d37afded2187650c472.1768172486.083cbc88b217b4c6ccccc09486e98dd8.9304c91fe742e27c92c21f97701a55c4.2c919e5d7a4ba9b5932b4e1ac1c40567.2e371c0cc2db1958
+https://cdn-live-tv.ru/api/v1/channels/us-fox/tracks-v1a1/mono.ts.m3u8?token=ba40b77ad49a212eb92b7e7be7ac52c2ae5e052603273d37afded2187650c472.1768172486.083cbc88b217b4c6ccccc09486e98dd8.9304c91fe742e27c92c21f97701a55c4.2c919e5d7a4ba9b5932b4e1ac1c40567.2e371c0cc2db1958
 #EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="FOX Deportes (PHI vs SF)" group-title="NFL",FOX Deportes
 https://cdn-live.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL_5uoDnMdg_PHI_SF" tvg-name="Sky Sports Main Event (PHI vs SF)" group-title="NFL",Sky Sports Main Event
