@@ -8,7 +8,7 @@ https://cdn-live-tv.ru/api/v1/channels/us-abc/index.m3u8?token=544d30a85004fd576
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
 #EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-acc-network/index.m3u8?token=2c49cc03c1725a7e31e330d08ae43f1dd9c2a9800de9a48809f9194ea2d01ebe.1768227980.bcae2675648b363df17e474121ae58ac.c6fa018c6a73dceacf2b6c3d3f956598.dc15cd6a0abd6bb2adf784d0477435cb.d98410b9b902537f
+https://cdn-live-tv.ru/api/v1/channels/us-acc-network/index.m3u8?token=f89d9b351ae1d8018fe21a56f4d8fdf9f6bf157128eb0e1cfda7964b68cdea84.1768236926.0ce22d605af3ec06d0554450ec63d891.ce0b7314534bc2e4b095c9e081120091.eac462839797a405c07d46c5f6e88242.96f49b3901c259eb
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-cricket-my.png?raw=true" group-title="",Astro Cricket
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
