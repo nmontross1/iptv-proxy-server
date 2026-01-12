@@ -2,425 +2,425 @@
 #EXTINF:-1 tvg-id="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-logo-2013-default-us.png?raw=true" group-title="",ABC
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-abc/index.m3u8?token=544d30a85004fd576723d5b3f8134d126bd777df871f5668491b6a8f0f2ea83a.1768227803.aba2960fbe8c333e9d234a66fe603179.23c53aabed89a905e8dd718bbc9a8442.62b7b326615e48be39eceb529a88c6af.a21c90e528cea436
 #EXTINF:-1 tvg-id="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="",ACC Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-acc-network/index.m3u8?token=2c49cc03c1725a7e31e330d08ae43f1dd9c2a9800de9a48809f9194ea2d01ebe.1768227980.bcae2675648b363df17e474121ae58ac.c6fa018c6a73dceacf2b6c3d3f956598.dc15cd6a0abd6bb2adf784d0477435cb.d98410b9b902537f
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-cricket-my.png?raw=true" group-title="",Astro Cricket
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-astro-cricket/index.m3u8?token=2cbb2df3918c2302774f00c52828f51dfdaf1ade13d6eb435afe5ab8fbd79564.1768228473.7bdea67ddbf11baf9e20053ce483bb9e.726212baf73deee64784050b93942221.f95999a3a0cd10264a8465a82e73fdf4.5555ae62de407efc
 #EXTINF:-1 tvg-id="Astro Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-football-my.png?raw=true" group-title="",Astro Football
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8?token=de05550b8f91c8bf8af1e618ca5fffcd9c21db4d8d6ef44bdc72270b89f8115b.1768228547.6cb21a9a45b7cb9452b049cc5d5a8c91.63d5b43fb0a2625aaa4957c85880088b.92068a2b77dd164d5a07c4db2474472b.1d9618a3faa1609d
 #EXTINF:-1 tvg-id="Astro Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-grandstand-my.png?raw=true" group-title="",Astro Grandstand
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-astro-grandstand/index.m3u8?token=0a26c03366835c121e8a21fc7951968a3dd0f07e488a5d15c900b9bb8b53614a.1768228724.ca58d5bdd1d25e93bdc0c33a0a70bcfb.11acbe926e17f4b910519a9f2b1c0c09.896c074c3d514898266947125c9a3d1e.42010c1902c3473b
 #EXTINF:-1 tvg-id="Astro Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-my.png" group-title="",Astro Premier League
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league/index.m3u8?token=9ff7dc60cbba9a7d353fa66d21af007a9ececf189189c034b3d50124a968adb3.1768228856.faab05d8a1ea1887dd7aab0ea2e027ce.0bed0627d2aa01ecdc8f932846387aeb.bc72a843c50f5a63816d6df498de513f.7b6e2821f2418fc1
 #EXTINF:-1 tvg-id="Astro Premier League 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-2-my.png?raw=true" group-title="",Astro Premier League 2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-astro-premier-league-2/index.m3u8?token=98f8d9466da2f18d5f3fe33e323ec1fac51f54d32baf59c9d4978f895b896346.1768228886.1010557be808e33d9c8add5dae0095f4.a45b233496575305cb076b4223466c54.8e8d019480704dd954699b8ebf0ac56c.53e6e102bfeabb43
 #EXTINF:-1 tvg-id="BBC America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/bbc-america-hd-us.png?raw=true" group-title="",BBC America
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-bbc/index.m3u8?token=1e967f1f24b1e6ed79925488abb0e9c6b2cbcae4adb34dd4d5f81a8e311638d2.1768228924.acff4f1539c637f7050fd7dfcb8bbcbe.b16fad71e526d44c3b8fbc5c038f5f64.16754ead7cbc6192c09e1875d7908ce6.34c64337f8782009
 #EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="",beIN SPORTS
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-bein-sports/index.m3u8?token=1d7e3e54c0c5ac9bc0afcb32b594046753d5cdd861efa4958a8d0567c2c0dde9.1768229023.6fa8c05f3da10a1c15afade86341959f.0375675bb971b9d3c998bbd741ddb8a2.7bae54202e582b2fa83a1c669338f8e0.5faca1e7dd89afd6
 #EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="",beIN SPORTS 1
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-bein-sports-1/index.m3u8?token=bc24cad8d4d291b22c23e326a35a97f7d3d5c6e324603a7849c9e1f12d681fe4.1768229078.bf01ea98ffa3575d94991dbc41152bce.e132acbf19b8bc07a177f77ae51d1a2c.ac6bea636424025e187325d005c2b460.67e760dea30c0f0a
 #EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-2-us.png?raw=true" group-title="",beIN SPORTS 2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-bein-sports-2/index.m3u8?token=a62320badb8ea843420603a7b2cee29b52c24794fd9b469c286cbe9429b9aa4d.1768229239.2d12e7d5597e0e0c81a73eb34eeb01c7.6b4e8d311694e3c086d00b0eed717fda.8acaf9b9f212e523d2fb222351ea0913.4fb8431eabe6526e
 #EXTINF:-1 tvg-id="BET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="",BET
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-bet/index.m3u8?token=74af0aec6909721d00b2da52d1f27392c0601273aa0b6570db22db605e1d1ddc.1768229303.86cd1009b0592a0a220efef46f2e9588.55df861eb69d593eed018530fd0ad267.2f68c0d15a8225a3e9f70e1883a8012f.74223db146dc3a87
 #EXTINF:-1 tvg-id="BTN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="",BTN
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com/
 #EXTINF:-1 tvg-id="CBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-ca.png?raw=true" group-title="",CBC
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-cbc-news/index.m3u8?token=dc541224e4050667897729358849a3a44f1df06221a274b9cd4de3f22d95c691.1768229417.1370d31e7f335476f2151d15d36cbf6f.3a4e53ddac726b7c85ad9a0eb3514bce.7c5aefe5f389eae768a204f609b4f717.eb7ac7c7b2d4f352
 #EXTINF:-1 tvg-id="CBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="",CBS
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-cbs/index.m3u8?token=0896b6a4e992dc027fb1e942d28e79804f96dbee0a69157020bcddd3717513ec.1768229477.12a8bf03a448812356912a0eac29fc85.1365acf6813a55c079128ab17129b6fd.f5e0fba0c5fea714130f0ff41c08b81b.36dc00a9de206ac2
 #EXTINF:-1 tvg-id="CBS Sports Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" group-title="",CBS Sports Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-cbs-sports-network/index.m3u8?token=75eb30ac54f54763c6af166243c20d5c99850beb8fe80b1195416135c36bf767.1768229600.cc629e4a8aa133c579717b69703e887a.ee928add4ceba8d32740c36beb6b411f.eb936c9011b053d4f2c12613e74f641d.1eb19c716ea0c629
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="",Cinemax
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true" group-title="",CNBC
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-cnbc/index.m3u8?token=e0049851dc922f2edabd1118c3865e7390e45f0c6876a07e2f87c839489375be.1768229713.61a6f0c041cc0538a281eec0fea80907.2f269ffeed91c56af94619be40591b5f.64c11963b86340906a6ee0dbe4108166.11c1c19f63ea0a4f
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="",CNN
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-cnn/index.m3u8?token=a161ca3e30dfcbd14a3879062b78a36aded191556acd2e1fc6d1d4d1aa5bba53.1768229779.81d26db8f91cbbfe14454877ba55fea9.dc25f0dcf55252debabc53c25042b400.daad854aab3246a3561db0a6308d39f9.8e65a0a735e3afb4
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true" group-title="",Discovery Channel
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-discovery-channel/index.m3u8?token=361e7db2c7522082e01158d599f9058a83dd7385c1b3c2ab70918b0be700ea0b.1768229830.753ab92868f76248e8f68d5f2c944518.52b67a13f06314a98a01c4bef16400f7.ce75a1183420b2469eb36ec67a6d2ccb.fe235d4e6d818188
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="",Disney Channel
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-disney-channel/index.m3u8?token=6849f9c0b1b3d6c00d96fad66cf7464612979c5d8b568f9d61701f0a07788a74.1768229885.bd1ae6b60e121ff1dffa3fe8b22ad75d.0d2cc266856c43a739bc35c32bd9059b.557408dd744b00da2281cc383c2c5d74.c9e895b78df09303
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="",ESPN
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8?token=d19d780668555b66666736e25dfeca796f5bfbd78f46665e759b3d13b127fd2c.1768229963.c79f4df426c7551c606fda827e29326f.622974d1b6af05f006c4fd1638f23539.f008429b69d0c21669551af638d21878.39df9d46fc355733
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" group-title="",ESPN 2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8?token=08cc8b5a2863050c355dd800ba46a7d79b8ca1962c3c274d9df93ee3205d9752.1768231425.19ac876da5345e8ca079361da4e75fea.cf656b3141167cf7d95c44d7c3cabff8.46d4cd3956b00328e3603a341e5ec218.69061fdede7970ff
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" group-title="",ESPN Deportes
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-espn-deportes/index.m3u8?token=3a988bd2463f7a9c2040132f4746de44eabcbfb8900f4d1bd2213668f08bff1c.1768230408.6069eb927ae6e897a510c128f5cfd584.64b23b45c1a4ddf391164fbbe1214480.1d6d89216f72f36bc412ef9b3512e066.6e5925dde5b18c52
 #EXTINF:-1 tvg-id="ESPN News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" group-title="",ESPN News
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="ESPN U" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" group-title="",ESPN U
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-espn-u/index.m3u8?token=4b9c853c6886e18d62523f8bd97f49b69f577ccf1741a10eecd7bf2c27dd736f.1768230517.8760ec34855c5c046d612e778872ca1b.5d66a925402c5b04108bdc9f3352c78b.61912fcfd5bf029d47bdef386bca61ea.30fbaec4c94f9ab6
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="",FOX
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-fox/index.m3u8?token=e8fb6b22f33386c1a6013677f0f2c71e07e54ef87a5d9a1bf3a5b2c59025aad0.1768230571.1c0313fb037dd05815b5b2168c6579c6.80cdf7fb3270c388a91c6db6a6a4c2cf.085f4c5cd0038ac68cfaa6e4a06f6238.5b06ca33d3e45693
 #EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-deportes-us.png?raw=true" group-title="",FOX Deportes
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-fox-deportes/index.m3u8?token=7460b64b87431161aba9c12fea46a45a56cbca69b76e56b204cf67406bbf8166.1768230764.75a619ae6feb6361925b2897283c7e94.d1be8d2366ffc5c9f36f667ef1707c02.46363fd9cf314c4aa591210e08fc352e.9ad89ba23c5529cf
 #EXTINF:-1 tvg-id="FOX News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="",FOX News
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-fox-news/index.m3u8?token=bb5d544ffd1db1b903e1bc6a8f9723f8ccbc6dcfc04cba6e1ec31a725c0cb906.1768230823.3f115757156c35ccc9c4b1a85721ec32.9d39d92dfa2a1ded921fd466b7daeb0a.b49b9023ac22a475abc49092aa924a4a.f35f05585701214c
 #EXTINF:-1 tvg-id="FOX Soccer Plus" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true" group-title="",FOX Soccer Plus
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-fox-soccer-plus/index.m3u8?token=4c20817e8aa6f4d7161799906d91da7d2bc0e873a9bfba1d019f880f1b7a7fa0.1768230908.36148a8ef363a7b2783bfa29cb56f170.2f944516e99858fd2dfa87c0c261dca0.b69d70fcbb87d13ac47484222adcc411.65149c930c749651
 #EXTINF:-1 tvg-id="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="",FS1
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-fox-sports-1/index.m3u8?token=6b2f717f613ea0a4f1b1199edc8252238ffb0ea74782b4d96d26fb521e6804b3.1768231022.ccc32eb963012b134161e6ea48d3821c.674495d3d5d5bb5bfce46a985a3bd056.294cc00a5b43b07c172279bf115cde17.646a6945f4edfe66
 #EXTINF:-1 tvg-id="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="",FS2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-fox-sports-2/index.m3u8?token=526e558f18f3b93915c622032261e3b1184167501e99a23ce987c0ad34960305.1768231038.6e339a4a52139323230cc59fb2b0b52f.8a5c72bc81ab5b987fdbf7ef9a19142f.dcca93b4fbad2aeac0eec783c2dd92d7.d1e3173b5b355916
 #EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/golf-tv.png" group-title="",Golf Channel
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-golf-tv/index.m3u8?token=9a9d3d744adc14206d316b78a6b2d58e913fd8c890fd63c0086c3e4284d7dd38.1768231060.687a3eac9c479c062bc9420c1d125cd2.4e869855d6a1243e65003e915edab92c.bce528c0caac311a511fbb578a489ccf.6f4bd64aa6086f59
 #EXTINF:-1 tvg-id="GOL TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/gol-tv-us.png?raw=true" group-title="",GOL TV
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="Hallmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="",Hallmark
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-hallmark/index.m3u8?token=e4204fe840a49564834c30e45053f0bb6a08d9f25efbbff70d97a69df0e7f576.1768231229.29f6239f4f1562835cfc6625bc6dae71.1d994b60c15ccb6ba7adc3a8c5c3a04f.b51189167f3fe479220b988265a6ca58.200b24b21bb1862f
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="",HBO
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-hbo/index.m3u8?token=a7a4e19b887dbfe9208cd05ba6775e640b1e37c8696a117c86b7ead8e03b2e16.1768231268.545970140a34705588112b1803b2d160.bc8d0295f4830d474746ddc96e2e6129.da31ef796aa769b40554e6268cd97104.8fa23dfb55edcb17
 #EXTINF:-1 tvg-id="History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="",History
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-history/index.m3u8?token=ccf9d9325e961cc14d1f2c932b73ffa2e550a0a5220be0be4ff2bd60d2e0d455.1768231343.de0ec748d5ab621fcf98e0637f0070e2.b196276c29d1ce90354f52e3e85c4bfa.0f7c45d4c88e255acede584b1794dc6c.88f2d1dbcb158783
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-us.png?raw=true" group-title="",Lifetime
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-lifetime/index.m3u8?token=1aeb3f0299df33ee2883614f48be3e291ada45a51eb0e68cf40aac8e501f886b.1768231408.4aa8ae9307caebbffed6b62c979b2e40.8a3e113f1a89db7af485018e9f57efa6.4717f7a2d5ea6072a8d586b964e18257.efde610e4374545b
 #EXTINF:-1 tvg-id="Max" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-max-us.png?raw=true" group-title="",Max
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="",MLB Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-mlb-network/index.m3u8?token=3df2a0045ec3ecca3169be0bf013f556d980bb901c5336d7814ffa54545aaa39.1768231523.4257e5c1133664307e4d15ade86993fa.a19d7b9647ad1b4a9898306b8be79ab8.1d7f702a63bd8f12d8984277e1b8b909.f291487e9b6f1866
 #EXTINF:-1 tvg-id="MSG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" group-title="",MSG
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-msg/index.m3u8?token=185439eeb1630f24ae86a1c1bfa1e7c2374a21b9e222b9b33e96a3560c6f8726.1768231599.70aae6345d022a608c02e430847fe880.16e289bc3cdcb74d1982a774cef7378b.97229c222645c9db0d48a9bd857742a3.a36c925ed43b2133
 #EXTINF:-1 tvg-id="MSNow" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ms-now-us.png?raw=true" group-title="",MSNow
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-msnbc/index.m3u8?token=1c911ebc48046eb7fb9f299353f0ffac4f33c4d367c8b8554618427e5e88db1f.1768231618.ea81c4dc0932ca34cd1b8f7303e4ca25.d06810a170e825e728dfb1bc4c6dc367.c9499f09e5c1dde85173cd38214cf12c.a053fb4dee609d13
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="",National Geographic
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-national-geographic/index.m3u8?token=46b34014fc4145feb153cc08c27d791fbc5131dc2a5683353934e57e289b45d5.1768231688.18ddbe59a08695aa7794fda9e025e993.b8b91c60746261b08e59981c6d17769e.1dd16732143f8aa1e3d53596811b66dd.ff8ae47f1370b174
 #EXTINF:-1 tvg-id="NBA League Pass 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 1
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 3
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 4
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 5
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 6
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 7
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 8
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 9
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA League Pass 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-league-pass-us.png?raw=true" group-title="",NBA League Pass 10
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="",NBA TV
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-nba-tv/index.m3u8?token=d8c99d55c6f50fa615da008a94b19ec7ee1ceadba508542c223b337b3616f1e4.1768231868.7dd980c46aa8a8b836e0034ff2886c68.a0fb40b02ffb12e16dffdaf78e886f4e.5c0dfce420254fa5bf451e2b46495980.9a1c6d81b1e94682
 #EXTINF:-1 tvg-id="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?raw=true" group-title="",NBC
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-nbc/index.m3u8?token=2ed0e9918954aa639770eee6f51834bcc1e11d3bf8d31dd439fce5d656edf02d.1768231908.433809196bfae3ac301166e3898720b0.7aa87769ea0679f604eb1c08d79e0247.8a5659ebe22c2399652b15dc51f25385.91e8c104b36614b3
 #EXTINF:-1 tvg-id="NBC Universo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-universo-us.png?raw=true" group-title="",NBC Universo
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-nbc-universo/index.m3u8?token=cdd70636f6419d448cb4f37fadaa62aa33b3f2df2022c009fc446b38e5844939.1768231957.3ecdcbf482af45f9d7927bc04999794c.947bed66da877260ae19f1073508e713.4a4337ab6ec565f8b91d80f0233ea67d.d7b63f1488372b88
 #EXTINF:-1 tvg-id="NFL Game Pass 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-us.png?raw=true" group-title="",NFL Game Pass 1
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NFL Game Pass 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-us.png?raw=true" group-title="",NFL Game Pass 2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NFL Game Pass 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-us.png?raw=true" group-title="",NFL Game Pass 3
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="",NFL Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/index.m3u8?token=53f46d67a13ca5280791a946096f27619a3580b6ab49e93bc01f29db3fc6fb69.1768232140.6a5cc50430edca917ce6915395b93dba.6f10f0cf12c1b5f334208852477ba5e5.af32ff0288e40ddcd93a2d5dcfd32788.a3945e210a0ba1bf
 #EXTINF:-1 tvg-id="NHL Center Ice 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-center-ice-us.png?raw=true" group-title="",NHL Center Ice 1
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NHL Center Ice 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-center-ice-us.png?raw=true" group-title="",NHL Center Ice 2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NHL Center Ice 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-center-ice-us.png?raw=true" group-title="",NHL Center Ice 3
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NHL Center Ice 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-center-ice-us.png?raw=true" group-title="",NHL Center Ice 4
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NHL Center Ice 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-center-ice-us.png?raw=true" group-title="",NHL Center Ice 5
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NHL Center Ice 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-center-ice-us.png?raw=true" group-title="",NHL Center Ice 6
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NHL Center Ice 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-center-ice-us.png?raw=true" group-title="",NHL Center Ice 7
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="NHL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="",NHL Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-nhl-network/index.m3u8?token=7e72903613e3c0675b023e4c53c8baeeb4cf1240b0da6470b421db0f5f7bc04e.1768232238.3c73342c48a38f3e6053520076c11719.67ff101c9f384937e16ba67e3fbd5a91.e051449e076835a8353c1a63214f1f9c.522e1318046a3ef4
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="",Nickelodeon
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-nickelodeon-tv/index.m3u8?token=80093514b350cc1655c3a1f27497d08ccf9db89900534a41009a363789ebaf8a.1768232303.f7f315f9da61b45776f03e7cc2724369.80a99af75f71bb0837f9ceb190737755.b8a25296e5608cab63cd08f6813f6195.aa309a3eaf06de3b
 #EXTINF:-1 tvg-id="Red Bull" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/red-bull.svg" group-title="",Red Bull
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-red-bull/index.m3u8?token=04aa869252ef2ec8cdadb17a874973acfd8c523e3819cb8f0b9a2ce4c9e8a2e3.1768232397.d9635c8cc13dda50451259c77c29e98c.3dd90fe67709e0492f2fb59dc4f01b7d.de756ebae34b58b40653c5e16951efd0.52c46b8437a45d94
 #EXTINF:-1 tvg-id="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="",SEC Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-sec-network/index.m3u8?token=3b7b55950557472a1a8c1beea256504c92991910be82d2f2be5d09a0a302e08e.1768232418.c1e22a9d6bfe0b70b01746fdc6ea766c.c64988b453d1a9ab95cbc2a9929f681e.1cc472a34417d054ced43f0e86d27ea7.b54d7a88506ae92a
 #EXTINF:-1 tvg-id="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="",Showtime
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-showtime/index.m3u8?token=7b3f4778412559dd91897824ccf7bd9ff2619e6a7c70fae6d96575eb5d9ef4da.1768232452.f9e0ba69922a3076ab72b5f0cebf3968.90e095169f599688d6ed8dd0722e2924.c9202ef801c6d584226cb91be42b0e2c.ca6b7ce83876a88b
 #EXTINF:-1 tvg-id="TBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="",TBS
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-tbs/index.m3u8?token=8f3700e00c70e89ed371ddbb2816ac2d796a2ea528b5683b5b113ee389f5114e.1768232531.6ce3fa295c78eeed45a25897b85fda81.a81857f14d473de5fef2f96ac59a163a.5bad888b9a05055a26750d7f54d95337.bd3ec67f3fae6c1e
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="",Telemundo
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-telemundo/index.m3u8?token=11e1b249b6268329df1ad846f92c01e5b4c7b7278b90f84b6619ef24dc50450e.1768232558.14c49fc2ba9b756c69f0348829cd2a41.3c386b0ede8f607719546bec01706ad2.ff8b65c9c411cd38ede837d3cbf35d53.11c62497e131aede
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-us.png?raw=true" group-title="",Tennis Channel
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-tennis-channel/index.m3u8?token=a3e34fe2b1740e3e549c0dcac8150936e42cde292cd7f6d9481268495bd4bc9a.1768232599.d211c4b4dffca3847e122aa245fd8a07.d09e5ca98db661555dd6d336786aef80.11e6661fc1829ff90f08b809202efa41.709ed08eed9b5663
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" group-title="",TLC
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-tlc/index.m3u8?token=5eb7a64989777ecb32d41378167a9a98acb8dfaa3888166eb002bd765ef2ce86.1768232652.4293b77b8aa55eaaf166fcd4c9cec296.43e7d3f3688de38611685943ec0a39a2.d4fe727132284925942642c40d9d3bf7.ee48f783e3114f15
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="",TNT
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-tnt/index.m3u8?token=e91f8d6cc5f6295ceefc6c24161e4aacfa78f2abf9d6f2914f28e12d2fe75b41.1768232693.76665859fb7a1c438169da92eb84ae2b.8d22a5ed6f307af239de3b4a395b1517.5c3e20ba82709f9d9e7c7d60cb01d27d.32fca8f78a73e7f1
 #EXTINF:-1 tvg-id="Travel Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="",Travel Channel
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-travel-channel/index.m3u8?token=155b567f32226e273ba351505dee716a62507516fdaa55e51d1a325cc8b9b3ed.1768232724.3fa6ba11024f472d671b935fa2f4eaa6.16f6c0dbe5499f427d2109300422b939.8da324db941e365a4934cf49feac20f7.831fa46b94ca853a
 #EXTINF:-1 tvg-id="TUDN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" group-title="",TUDN
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-tudn/index.m3u8?token=77ddf0b885c39a91651fba94fac57d8624ba99af156010f148c1ea878540c8a2.1768232757.c60059873ae1a0373ac199dde97049e1.44cf48d9c7adcf59793982807f1b4972.2302bdba2d1ccf3563ec5dce0d7b4b51.48eda6e66cd50b3d
 #EXTINF:-1 tvg-id="TV ONE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/one-tv-us.png?raw=true" group-title="",TV ONE
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-tv-one/index.m3u8?token=799cf0bb8d63f2a56ae528b0dd4e5c457fc1e327f48a338e01df56d07fda50bc.1768232850.51dc3b6a1147e8ca577a1b5b4e9befc6.faacc39dafae89997cb744e0f63f0971.80fa3b0645a1860153daae7b08142eb0.8eb35baf62b00814
 #EXTINF:-1 tvg-id="Universal Kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" group-title="",Universal Kids
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://unavailable.com
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" group-title="",Univision
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-univision/index.m3u8?token=21f2e71bf5e9c3ff898b8d2a3ff13425286075403f8537ea51bc3e16c7a28430.1768232954.5b121ee25aad1157d0892ba9a145e1f1.b8a51634ed99a9e7d8d2c89608d0ea3a.d2ac945c9e95b1a59d7ea6e5ce2fcbf3.54fe5b813be9e78d
 #EXTINF:-1 tvg-id="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="",USA Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8?token=4393a3a42e1e10e962c5e35edb029d13694c0abd070f369b9a137a6f0b350e13.1768233003.ad44336927a325378ded351e56bb8ad6.9f6700ee74400a686dfa7513c8667c77.1451e52a5cf6ea28a571235689384582.a73857a7919c061a
 #EXTINF:-1 tvg-id="WWE Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" group-title="",WWE Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-wwe/index.m3u8?token=25b4e308f58681ac462fb99ae673f74662ff21e0650006e05a8cb3e601c6e8f1.1768233075.8ebca13308a077cdf5cb1c5d213d0016.0b3b8bedba026fc1a44fdbcf61bd9a98.ddff4e2d1bc605d63632ddf51f42dd8d.2ef53e94f07e96a7
 #EXTINF:-1 tvg-id="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="",YES Network
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-yes-network/index.m3u8?token=91596d568d99aa7f95a0cf5f7ce8e0b7fcad297e00d178e9d4625f8e2e3efcad.1768233091.b10acf194d053a287e78d0d050c1de70.a83b081fb477ce31997928102a23d433.b053f557707b5be26ea979f39b855b6d.8540bb930016353f
