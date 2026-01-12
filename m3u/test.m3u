@@ -1,1 +1,14 @@
+#EXTM3U
+#EXTINF:-1, CNN
+https://cdn-live-tv.ru/api/v1/channels/us-cnn/index.m3u8?token=b470193130b945a56b53700c81f08b5731b6a517746d2f2e42cdf7240fdea211.1768243599.4e2748cad00162ad6584a58bdfe84ab3.85375dd2fce9bbbd7639e16597b89bd5.723b7e3672ab5f62be4111006e4fe05b.99b0254ebffe07e6
+#EXTINF:-1, ESPN 2
+https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8?token=77496180107e914ba58c65bc3d685988c1314c680b49cb6523b85ec14f6aa568.1768243613.9111cce4c697d3a5dac50058e8ed657c.07005d0fd7029b76c240b2cf67ba53cb.ae1fa76dd66641a7550a7872fe9cacd7.5c87b0e0b95ea77b
+#EXTINF:-1, ACC Network
+https://cdn-live-tv.ru/api/v1/channels/us-acc-network/index.m3u8?token=77624b8363ed36f9e7c7b25cec9fc9864ffbb203e027bb1d78468fc20d2d0d21.1768243642.498e8d6790bd806b9f2b23b82f46b013.aa70fc76db622329910db58712f48990.acaf46b79024bb1c412ff6e750ded2ae.47725efddd498c96
+#EXTINF:-1, ESPN News
+https://cdn-live-tv.ru/api/v1/channels/us-espn-news/index.m3u8?token=da59c8084f5f250f37e9e1df6c76442826e0063a1d81cd444f637f6fc33abcf2.1768243649.99d06cdc1c0152a13ab8f8c2528a97da.5f58e20a6a1857c5f95109899af69a23.b60f3ac01e56f89bad8c30f749a4297c.87f9b85b8a8a9c90
+#EXTINF:-1, Lifetime
+https://cdn-live-tv.ru/api/v1/channels/us-lifetime/index.m3u8?token=e643e6dbd9fd966e0e0f6e9ed9118eb8e714eb64a123b91cd793b802d1055165.1768243699.a9a4557f0fbc08e66dc86304b27968f4.68dee7fefb5cb62830061e784130699c.8c2fd375afdd75bf48a31f1c976932f8.24ef24eb051e8b7e
+#EXTINF:-1, NBC
+https://cdn-live-tv.ru/api/v1/channels/us-cnbc/index.m3u8?token=df28c5c343904455a23bdc6dabf6c5c05b1f2055765b1498bdeae2a8c8be56b4.1768243714.6e9d4ec2ebbcde567bc6dc1a0a27e42a.fa37e7489ab596e39a442d061d12a422.294d89cf5507d43c68ab655fd1d0d183.742bc138b22792ff
 
